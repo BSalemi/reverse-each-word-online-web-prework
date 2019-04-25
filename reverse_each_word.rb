@@ -6,3 +6,5 @@ def reverse_each_word(string)
   end
    reversed_array.join(" ")
 end
+
+reverse_each_word("Hi There friend")
